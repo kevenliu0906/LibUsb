@@ -1,0 +1,1 @@
+/usr/bin/c++  -pthread -lpthread -s -Wall -std=c++14 -fexceptions -O2 -O3 -DNDEBUG -rdynamic CMakeFiles/hotplug_linux.dir/src/hotplug_linux.cpp.o -o hotplug_linux   -L/home/adlink/Desktop/keven.liu/__CMake_With_LibUSB/lib/linux64  -Wl,-rpath,/home/adlink/Desktop/keven.liu/__CMake_With_LibUSB/lib/linux64 ../lib/linux64/libusb-1.0.so 

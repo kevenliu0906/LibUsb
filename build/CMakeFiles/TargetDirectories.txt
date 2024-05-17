@@ -1,0 +1,4 @@
+D:/Recover_old_win7_IT/Keven's_Data/__Technical__Knowing__/__Study_Project/__CMake_With_LibUSB/build/CMakeFiles/hotplug_linux.dir
+D:/Recover_old_win7_IT/Keven's_Data/__Technical__Knowing__/__Study_Project/__CMake_With_LibUSB/build/CMakeFiles/devlist.dir
+D:/Recover_old_win7_IT/Keven's_Data/__Technical__Knowing__/__Study_Project/__CMake_With_LibUSB/build/CMakeFiles/ALL_BUILD.dir
+D:/Recover_old_win7_IT/Keven's_Data/__Technical__Knowing__/__Study_Project/__CMake_With_LibUSB/build/CMakeFiles/ZERO_CHECK.dir

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\Recover_old_win7_IT\Keven's_Data\__Technical__Knowing__\__Study_Project\__CMake_With_LibUSB\src\devlist.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\Recover_old_win7_IT\Keven's_Data\__Technical__Knowing__\__Study_Project\__CMake_With_LibUSB\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{30EAF6B4-3FA4-36AF-B1DB-13C76B821B97}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,4 @@
+/home/adlink/Desktop/keven.liu/__CMake_With_LibUSB/build_linux/CMakeFiles/hotplug_linux.dir
+/home/adlink/Desktop/keven.liu/__CMake_With_LibUSB/build_linux/CMakeFiles/devlist.dir
+/home/adlink/Desktop/keven.liu/__CMake_With_LibUSB/build_linux/CMakeFiles/edit_cache.dir
+/home/adlink/Desktop/keven.liu/__CMake_With_LibUSB/build_linux/CMakeFiles/rebuild_cache.dir

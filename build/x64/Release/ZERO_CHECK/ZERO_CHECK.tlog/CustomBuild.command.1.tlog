@@ -1,0 +1,10 @@
+^D:\RECOVER_OLD_WIN7_IT\KEVEN'S_DATA\__TECHNICAL__KNOWING__\__STUDY_PROJECT\__CMAKE_WITH_LIBUSB\BUILD\CMAKEFILES\33AC3B465307E8936073DDD9F711B640\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SD:/Recover_old_win7_IT/Keven's_Data/__Technical__Knowing__/__Study_Project/__CMake_With_LibUSB" "-BD:/Recover_old_win7_IT/Keven's_Data/__Technical__Knowing__/__Study_Project/__CMake_With_LibUSB/build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "D:/Recover_old_win7_IT/Keven's_Data/__Technical__Knowing__/__Study_Project/__CMake_With_LibUSB/build/UsbDevice_With_Library.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
